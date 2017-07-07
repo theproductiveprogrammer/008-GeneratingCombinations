@@ -12,7 +12,7 @@
  * with getting it right.
  *
  * *___(Need to [href=/GeneratingPermutations.java.php](generate
- * *permutations)*? That's the
+ * *permutations*)? That's the
  * [href=/GeneratingPermutations.java.php](next post))___*
  *
  * If you are in the same
