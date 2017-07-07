@@ -2,17 +2,22 @@
  * How to Generate Combinations
  */
 /**
- * Occasionally we come across
- * cases where we have to
- * generate all possible
+ * As programmers, occasionally
+ * we come across cases where we
+ * have to generate all possible
  * combinations of a set.
- * We know that the natural
+ * Now, I know the natural
  * solution is recursive but
- * I've found I struggle with
- * getting it right.
+ * I sometimes used to struggle
+ * with getting it right.
+ *
+ * *___(Need to [href=/GeneratingPermutations.java.php](generate
+ * *permutations)*? That's the
+ * [href=/GeneratingPermutations.java.php](next post))___*
  *
  * If you are in the same
  * situation, I'd like to share
+ * how I finally discovered
  * my favorite method for
  * generating combinations in
  * this post.
@@ -22,14 +27,16 @@
  */
 /**
  * There are two possible
- * solutions that I know of for
- * generating combinations –
- * recursive and iterative. My
- * favorite is the iterative
- * because it uses a really neat
- * trick, but I’ll start with
- * explaining the elegant
- * recursive solution.
+ * solutions for generating
+ * combinations –
+ *  (1) recursive
+ *  and
+ *  (2) iterative.
+ * My favorite method is the
+ * iterative because it uses a
+ * really neat trick, but I’ll
+ * start with explaining the
+ * elegant recursive solution.
  */
 
 import java.util.ArrayList;
